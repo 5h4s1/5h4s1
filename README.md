@@ -2,7 +2,8 @@
 
 <hr>
 
-<h3 align="left"><b>About me</b></h3>
+<h3 align="left"><b>![image](https://user-images.githubusercontent.com/96786536/159459423-dbf0462a-a145-4f57-a8a6-09f9a0af3a0d.png)
+ About me</b></h3>
 
 -  I’m currently studying in **KMA (Hoc vien ki thuat mat ma)**
 
