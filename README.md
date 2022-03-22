@@ -8,7 +8,7 @@
 
 <p>
  
-![](https://badges.aleen42.com/src/javascript.svg)
+![](https://komarev.com/ghpvc/?username=5h4s1&color=green)
 ![](https://badges.aleen42.com/src/node.svg)
 ![](https://badges.aleen42.com/src/python.svg)
 ![](/assets/php.svg)
