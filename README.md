@@ -1,13 +1,10 @@
 # Hi there, I'm NGUYEN HOAN - 5h4s1 👋
 
-<p>
+<p align="left">
 ![](https://komarev.com/ghpvc/?username=5h4s1&color=green) 
 </p>
 
 <h3 align="left">👨‍💻 Languages and Frameworks:</h3>
-
-
-
 
 <p>
  
