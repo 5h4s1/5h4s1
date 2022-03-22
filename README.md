@@ -1,15 +1,17 @@
 # Hi there, I'm NGUYEN HOAN - 5h4s1 👋
 
+
 <p align="left">
+ 
 ![](https://komarev.com/ghpvc/?username=5h4s1&color=green) 
-<p>
+</p>
 
 <h3 align="left">👨‍💻 Languages and Frameworks:</h3>
 
 <p>
  
 ![](https://badges.aleen42.com/src/javascript.svg)
-![](https://badges.aleen42.com/src/node.svg
+![](https://badges.aleen42.com/src/node.svg)
 ![](https://badges.aleen42.com/src/python.svg)
 ![](/assets/php.svg)
 ![](/assets/mysql.svg)
