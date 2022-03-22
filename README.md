@@ -13,9 +13,9 @@
 ![](https://badges.aleen42.com/src/javascript.svg)
 ![](https://badges.aleen42.com/src/node.svg)
 ![](https://badges.aleen42.com/src/python.svg)
-![](/assets/php.svg)
-![](/assets/mysql.svg)
-![](/assets/discord-js.svg)
+![](https://github.com/hypnguyen1209/hypnguyen1209/blob/6739a1491c96222595ae775d2d5bb82d83cf9b0f/assets/php.svg)
+![](https://github.com/hypnguyen1209/hypnguyen1209/blob/6739a1491c96222595ae775d2d5bb82d83cf9b0f/assets/mysql.svg)
+ 
 </p>
 
 
@@ -27,7 +27,9 @@
 ![](/assets/linux.svg) 
  
 </p>
+
 <h3>🎉 Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=5h4s1&show_icons=true&theme=dracula&count_private=true" alt="5h4s1">
+ 
 </p>
