@@ -1,7 +1,7 @@
 # Hi there, I'm NGUYEN HOAN - 5h4s1 👋
 
 <p>
-![](https://komarev.com/ghpvc/?username=your-github-username) 
+![](https://komarev.com/ghpvc/?username=5h4s1&color=green) 
 </p>
 
 <h3 align="left">👨‍💻 Languages and Frameworks:</h3>
