@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3 align="left"><b>😜About me</b></h3>
+<h3 align="left"><b>😜 About me</b></h3>
 
 -  I’m currently studying in **KMA (Hoc vien ki thuat mat ma)**
 
