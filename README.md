@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **PHP, Nodejs, Python and Web Development!**
 
-- ⚡ What I like to do: **I like so much game, movie, ...and coding of course**
+- ⚡ What I like to do: **I like so much game, movie,...and coding of course**
 
 <hr>
 
