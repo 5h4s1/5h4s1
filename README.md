@@ -3,6 +3,11 @@
 <h3 align="left">👨‍💻 Languages and Frameworks:</h3>
 
 <p>
+![](https://komarev.com/ghpvc/?username=your-github-username) 
+</p>
+
+
+<p>
  
 ![](https://badges.aleen42.com/src/javascript.svg)
 ![](https://badges.aleen42.com/src/node.svg)
