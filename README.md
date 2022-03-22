@@ -1,12 +1,12 @@
 # Hi there, I'm NGUYEN HOAN - 5h4s1 👋
 
-<h3 align="left"><b>About me/b></h3>
+<h3 align="left"><b>About me</b></h3>
 
-- 🌁 I’m currently studying in **KMA (Hoc vien ki thuat mat ma)**
+-  I’m currently studying in **KMA (Hoc vien ki thuat mat ma)**
 
-- 🌱 I’m currently learning: **PHP, Nodejs, Python and Web Development!**
+-  I’m currently learning: **PHP, Nodejs, Python and Web Development!**
 
-- ⚡ What I like to do: **I like so much game, movie,...and coding of course**
+-  What I like to do: **I like so much game, movie,...and coding of course**
 
 <hr>
 
